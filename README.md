@@ -22,8 +22,11 @@ A simple console-based Bank Account Management System written in C++. This proje
 bank-account-management/
 │
 ├── bankaccount.cpp # Main source code
+
 ├── Account.txt # Data file (auto-generated)
+
 └── README.md # Project documentation
+
 
 
 
